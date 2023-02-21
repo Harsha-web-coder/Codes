@@ -1,0 +1,5 @@
+my_file_obj=open("mowa.txt","a")
+my_file_obj=input("hello mowa")
+my_file_obj.write("\n")
+my_file_obj.write(file_obj)
+my_file_obj.close()
